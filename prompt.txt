@@ -1,0 +1,11 @@
+You’re going to build a company homepage for a real or imagined company. You should include:
+
+1) A title and logo or splash image.
+2) A mission statement or brief description of the company.
+3) A list or set of images and titles representing the product or products of the company.
+4) A section describing some of the company’s employees or teammates.
+
+A great source for project images when you’re practicing web design is Unsplash.
+
+Ze Ideas: 
+a) sports journalist
